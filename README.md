@@ -1,15 +1,17 @@
 ### Date created
-Include the date you created this project and README file.
+June 10, 2020
 
 ### Project Title
-Replace the Project Title
+Udacity Programming for Data Science Nano-degree Github Project
 
 ### Description
-Describe what your project is about and what it does
+Allows a user to input filter options (city, month, day) in order to display relevant data and descriptive statistics about bikeshare data.
 
 ### Files used
-Include the files used
+bikeshare.py
+chicago.csv
+washington.csv
+new_york_city.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+https://pandas.pydata.org/pandas-docs/stable/
