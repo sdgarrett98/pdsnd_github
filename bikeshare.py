@@ -208,7 +208,7 @@ def main():
         trip_duration_stats(df)
         user_stats(df)
 
-        # create a loop to allow user input about displaying raw data
+        # create a loop to allow user input about displaying raw data five rows at a time
         while True:
             raw_data = input('\nWould you like to see raw data? (\'yes\' or \'no\')\n')
             if raw_data.lower() == 'yes':
