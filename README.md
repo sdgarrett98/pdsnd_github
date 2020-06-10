@@ -5,7 +5,7 @@ June 10, 2020
 Udacity Programming for Data Science Nano-degree Github Project
 
 ### Description
-Allows a user to input filter options (city, month, day) in order to display relevant data and descriptive statistics about bikeshare data.
+Allows a user to input filter options (city, month, day) in order to display relevant data and descriptive statistics about bikeshare data. Gender and Birth Year stats are only available for Chicago and Washington.
 
 ### Files used
 bikeshare.py
